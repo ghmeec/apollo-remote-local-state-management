@@ -7,5 +7,5 @@ Backend  : Hasura
 ## FrontEnd
 Frontend : React + HasuraHQ 
 
-## CodeSandBox Link
-[ Link to Codesandbox ](https://choosealicense.com/licenses/mit/)
+## CodeSandBox
+[ Link to codesandbox ](https://codesandbox.io/s/angry-boyd-0nrjy?file=/src/App.js)

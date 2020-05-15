@@ -8,4 +8,4 @@ Backend  : Hasura
 Frontend : React + HasuraHQ 
 
 ## CodeSandBox
-[ Link to codesandbox ](https://codesandbox.io/s/angry-boyd-0nrjy?file=/src/App.js)
+[ Link to codesandbox ](https://codesandbox.io/s/happy-monad-k6xcr?file=/src/App.js)
